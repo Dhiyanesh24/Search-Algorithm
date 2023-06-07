@@ -21,7 +21,7 @@ i)	#Use a linear search method to match the item in a list.
 ```
 ''' 
 Program for linear search method to match the item in a list
-Developed by: Dhianeshwar P
+Developed by: Dhiyaneshwar P
 RegisterNumber: 212222110009
 '''
 def linearSearch(array,n,k):
